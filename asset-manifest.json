@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Drunk-Cards/static/css/main.ffee0d37.css",
+    "main.js": "/Drunk-Cards/static/js/main.183e422e.js",
+    "static/js/787.f81f897b.chunk.js": "/Drunk-Cards/static/js/787.f81f897b.chunk.js",
+    "index.html": "/Drunk-Cards/index.html",
+    "main.ffee0d37.css.map": "/Drunk-Cards/static/css/main.ffee0d37.css.map",
+    "main.183e422e.js.map": "/Drunk-Cards/static/js/main.183e422e.js.map",
+    "787.f81f897b.chunk.js.map": "/Drunk-Cards/static/js/787.f81f897b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffee0d37.css",
+    "static/js/main.183e422e.js"
+  ]
+}
