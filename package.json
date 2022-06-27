@@ -1,0 +1,26 @@
+
+{
+  "name": "drunkcards",
+  "version": "1.0.0",
+  "description": "This is a fun Card based Drinking game I am making for me and my friends to play. You can create Card and add them to Decks which can be played with on the game screen.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiccie-C/Drunk-Cards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiccie-C/Drunk-Cards/issues"
+  },
+  "homepage": "https://github.com/Thiccie-C/Drunk-Cards"
+}
